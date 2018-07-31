@@ -16,7 +16,7 @@ This list focuses on notation as "a series or system of written symbols used to 
 * Knuth's note on [Iverson’s convention and Stirling numbers](http://www.maa.org/sites/default/files/images/images/upload_library/22/Ford/knuth403-422.pdf)
 * MathOverflow thread on designing a [unified, visual notation](https://math.stackexchange.com/questions/30046/alternative-notation-for-exponents-logs-and-roots) for exponents, logs, and roots
 * An [overview](https://link.springer.com/chapter/10.1007%2F978-3-642-41422-0_2) of other good math notation (the equality sign, algebra, variables, dy/dx (debatable), Einstein notation)
-* Sussman’s _[Structure and Interpretation of Classical Mechanics](https://mitpress.mit.edu/sites/default/files/titles/content/sicm/book-Z-H-5.html)_: a book on physics as function composition and code
+* Sussman’s _[Structure and Interpretation of Classical Mechanics](https://en.wikipedia.org/wiki/Structure_and_Interpretation_of_Classical_Mechanics)_: a book on physics as function composition and code
 * Wolfram's [keynote](http://www.stephenwolfram.com/publications/mathematical-notation-past-future/) "Mathematical Notation: Past and Future" (specifically, empirical laws thereof)
 * Iverson's notes on [good mathematical notation design and APL](http://www.eecg.toronto.edu/~jzhu/csc326/readings/iverson.pdf)
 * Bret Victor's comments on [Roman numerals (a bad notation) vs. Arabic numerals](http://www.fastcodesign.com/1664508/ex-apple-designer-creates-teaching-ui-that-kills-math-using-data-viz)
